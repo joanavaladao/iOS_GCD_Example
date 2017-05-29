@@ -1,0 +1,2 @@
+# iOS_GCD_Example
+In this app, the user enters 5 numbers and press “Sort”. The app will sort the array, and show the intermediate results in a text view, and the final result in text fields. After each interaction has a “sleep” process, that stops the execution for 5 seconds. During the entire process, the user can interact with the segmented control, showing that the user interface is not frozen.
